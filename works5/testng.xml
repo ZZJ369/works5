@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <parmeter name="date01" value="10"></parmeter>
+    <classes>
+      <class name="work5.xueshenglogin"/>
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
